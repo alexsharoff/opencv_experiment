@@ -1,0 +1,8 @@
+﻿#
+*.sdf
+*.opensdf
+*.suo
+*.user
+*.txt
+
+x64/
